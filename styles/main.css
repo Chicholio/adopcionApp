@@ -196,37 +196,3 @@
     opacity: 50%;
     cursor: pointer;
 }
-
-.scene_element {
-    animation-duration: 0.5s;
-    transition-timing-function: ease-in;
-    animation-fill-mode: both;
-}
-
-.scene_element--fadein {
-    animation-name: fadeIn;
-}
-
-.scene_element--fadeinup {
-    animation-name: fadeInUp;
-}
-
-@keyframes fadeIn {
-    0% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 1;
-    }
-}
-
-@keyframes fadeInUp {
-    0% {
-        opacity: 0;
-        transform: translate3d(0, 100%, 0);
-    }
-    100% {
-        opacity: 1;
-        transform: none;
-    }
-}

@@ -41,7 +41,7 @@ function listDogs(current, petsData) {
         }
 
         singlePet = `
-            <a href="vista-detalle.html" class="scene_element scene_element--fadeinup">
+            <a href="detalle-mascotas.html">
                 <div style="background-image:linear-gradient(180deg, rgba(255, 255, 255, 0) 26.42%, #000000 99.33%), url('${petPhoto}') ;" class="pets ${relative}" name="${id}">
                     <p class="bold2 white-text">${namePet}</p>
                     <p class="regular2 white-text">${breed}</p>
