@@ -9,7 +9,7 @@ export const catsDB = {
         "history" : "Matilde es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
         "petPhoto" : "images/matilde.png",
         "owner" : "Juan Jesus",
-        "ownerPhoto" : "images/elmejor.jpg",
+        "ownerPhoto" : "images/dueño.jpg",
         "id": "c001"
     },
     "cat2" : {
@@ -22,7 +22,7 @@ export const catsDB = {
         "history" : "Isis es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
         "petPhoto" : "images/isis1.jpeg",
         "owner" : "Carolina Garcia",
-        "ownerPhoto" : "images/elmejor.jpg",
+        "ownerPhoto" : "images/dueño.jpg",
         "id": "c002"
     },
     "cat3" : {
@@ -35,7 +35,7 @@ export const catsDB = {
         "history" : "Ra es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
         "petPhoto" : "images/eddie1.jpeg",
         "owner" : "Mauricio Cianci",
-        "ownerPhoto" : "images/elmejor.jpg",
+        "ownerPhoto" : "images/dueño.jpg",
         "id": "c003"
     },
     "cat4" : {
@@ -48,7 +48,7 @@ export const catsDB = {
         "history" : "Bombón es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
         "petPhoto" : "images/tony.jpeg",
         "owner" : "Melissa Londoño",
-        "ownerPhoto" : "images/elmejor.jpg",
+        "ownerPhoto" : "images/dueño.jpg",
         "id": "c004"
     }
 }
