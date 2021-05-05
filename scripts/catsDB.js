@@ -14,7 +14,7 @@ export const catsDB = {
     },
     "cat2" : {
         "namePet" : "Isis",
-        "breed" : "Angora",
+        "breed" : "Bobtail Japones",
         "age" : "5 Meses",
         "sex" : "Famele",
         "location" : "Santa Monica",
@@ -27,7 +27,7 @@ export const catsDB = {
     },
     "cat3" : {
         "namePet" : "Eddie",
-        "breed" : "Esfinge",
+        "breed" : "Pixie Bob",
         "age" : "4 Meses",
         "sex" : "Male",
         "location" : "Santa Monica",
@@ -40,7 +40,7 @@ export const catsDB = {
     },
     "cat4" : {
         "namePet" : "Tony",
-        "breed" : "Bombay",
+        "breed" : "Korat",
         "age" : "3 Meses",
         "sex" : "Female",
         "location" : "Santa Monica",
