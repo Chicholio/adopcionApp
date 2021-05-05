@@ -1,0 +1,11 @@
+:root {
+    --color-primary: #FEC7D7;
+    --color-seondary: #A786DF;
+    --color-tertiary: #D9D4E7;
+    --color-cuartiary: #85D1CE;
+    --color-quintiary: #91C1D7;
+    --color-sextiary: #FFFFFE;
+    --color-sextentiary: #0E172C;
+    --color-octiary: #535353;
+    --font-family: 'Nunito', sans-serif;
+}

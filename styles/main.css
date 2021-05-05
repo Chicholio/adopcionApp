@@ -211,18 +211,6 @@
     animation-name: fadeInUp;
 }
 
-.scene_element--fadeinright {
-    animation-name: fadeInRight;
-}
-
-.scene_element--fadeoutright {
-    animation-name: fadeOutRight;
-}
-
-.scene_element--fadeinleft {
-    animation-name: fadeInLeft;
-}
-
 @keyframes fadeIn {
     0% {
         opacity: 0;
@@ -237,41 +225,6 @@
         opacity: 0;
         transform: translate3d(0, 100%, 0);
     }
-    100% {
-        opacity: 1;
-        transform: none;
-    }
-}
-
-@keyframes fadeInRight {
-    0% {
-        opacity: 0;
-        transform: translate3d(100%, 0, 0);
-    }
-    100% {
-        opacity: 1;
-        transform: none;
-    }
-}
-
-@keyframes fadeOutRight {
-    0% {
-        opacity: 1;
-        transform: none;
-    }
-    100% {
-        opacity: 0;
-        transform: translate3d(-100%, 0, 0);
-        
-    }
-}
-
-@keyframes fadeInLeft {
-    0% {
-        opacity: 0;
-        transform: translate3d(-100%, 0, 0);
-    }
-
     100% {
         opacity: 1;
         transform: none;
