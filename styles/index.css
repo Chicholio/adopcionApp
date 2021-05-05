@@ -1,0 +1,50 @@
+:root {
+    --color-primary: #FEC7D7;
+    --color-seondary: #A786DF;
+    --color-tertiary: #D9D4E7;
+    --color-cuartiary: #85D1CE;
+    --color-quintiary: #91C1D7;
+    --color-sextiary: #FFFFFE;
+    --color-sextentiary: #0E172C;
+    --color-octiary: #535353;
+    --font-family: 'Nunito', sans-serif;
+}
+
+.tittle-h1 {
+    margin: 40px 0;
+}
+
+.div-button-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0 0 0;
+}
+
+.button-category {
+    width: 156px;
+    height: 80px;
+    border-radius: 8px;
+    justify-content: space-between;
+    padding: 0 20px 0 10px;
+}
+
+.icon {
+    background-color: var(--color-cuartiary);
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.dog-icon {
+    background-image: url('../images/dogs.png');
+}
+
+.cat-icon {
+    background-image: url('../images/cats.png');
+}
+
+.no-select {
+    cursor: default;
+}
