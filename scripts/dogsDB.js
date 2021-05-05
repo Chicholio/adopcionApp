@@ -27,13 +27,13 @@ export const dogsDB = {
     },
     "dog3" : {
         "namePet" : "Teo",
-        "breed" : "Golden Retriever",
+        "breed" : "Esnauser",
         "age" : "4 Meses",
         "sex" : "Male",
         "location" : "Santa Monica",
         "personality" : ["Tierno", "Juguetón", "Cariñoso"],
         "history" : "Teo es un perrito muy lindo y cariñoso, tiene mucha fuerza a la hora de jugar y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
-        "petPhoto" : "images/teo.jpeg",
+        "petPhoto" : "images/teo.jpg",
         "owner" : "Juan Yepez",
         "ownerPhoto" : "images/dueño.jpg",
         "id": "d003"
